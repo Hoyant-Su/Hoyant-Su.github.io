@@ -25,7 +25,7 @@ redirect_from:
 **Bachelor**, Fudan University  
 *(2020-09 — 2024-06)*  
 
-My research focuses on **medical AI**, particularly *vision–language models*, *cardiac imaging*, and *interpretable survival prediction*. I work on building reasoning-aligned LVLMs for pathology/cardiac imaging and developing explainable computational frameworks for large-scale clinical risk prediction.
+My research focuses on medical AI, particularly the development of vision–language models (LVLMs), multi-agent reasoning systems (MAS), and domain-specific LVLM fine-tuning. I work on scalable frameworks for integrating multimodal data and tool-based reasoning, aiming to advance intelligent, evidence-driven systems for clinical and biomedical applications.
 
 ---
 
